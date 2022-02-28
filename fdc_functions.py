@@ -6,8 +6,7 @@ import requests
 # Central (https://fdc.nal.usda.gov/). You will need to get an API
 # key here: https://fdc.nal.usda.gov/api-key-signup.html
 
-apikey = "cZngILx3FMisXOAIi4hC3860HUGONBU2Z1TwFbhO"
-#apikey= "[Enter your API Key here]"
+apikey= "[Enter your API Key here]"
 
 
 # Given an fdc_id, return the top level dictionary of information
